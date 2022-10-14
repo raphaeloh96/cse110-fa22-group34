@@ -1,4 +1,4 @@
-# Hardcore 34 Team Working Agreement
+# Hardcore 34 - Team Working Agreement
 
 ## Table of Contents
 1. [Primary Means of Communication](#primary-means-of-communication)
