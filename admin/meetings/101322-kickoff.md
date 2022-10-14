@@ -27,7 +27,7 @@
     - Specific Responsibilities/Deadlines
     - Conflict Resolution
     - Expectation of TA
-- All of the above rules are listed in the [```rules.md```](admin/misc/rules.md) file
+- All of the above rules are listed in the [```rules.md```](../../rules.md) file
 
 ## Potential Jobs
 - We've assigned the following jobs:
@@ -39,7 +39,7 @@
        - Deadline: 10/15/2022
     - Create Team Page: Derrick & Xu
        - Deadline: 10/15/2022
-    - Create [```rules.md```](admin/misc/rules.md) & format: David & Jack
+    - Create [```rules.md```](../../rules.md) & format: David & Jack
        - Deadline: 10/15/2022
 - Everyone has worked until 3:10pm.
 
@@ -50,5 +50,5 @@
 - We've talked about 
     - settling down the rules
     - finishing jobs
-    - next meeting with the TA (10.16.2022 8:30pm on zoom) (details in the [```rules.md```](admin/misc/rules.md))
+    - next meeting with the TA (10.16.2022 8:30pm on zoom) (details in the [```rules.md```](../../rules.md))
     - creating the team video (unfinished)
