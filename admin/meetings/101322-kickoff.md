@@ -33,7 +33,7 @@
     - Format notes in ```101322-kickoff.md```: Alessia & Jiaxin
     - Create logo/ image for team & create other branding information: Sisy and Rapheal
     - Create Team Page: Derrick & Xu
-    - Create [```rules.md```](main/rules.md) & format: David & Jack
+    - Create [```rules.md```](../../rules.md) & format: David & Jack
 - Everyone has worked until 3:10pm.
 
 ## Conclusion
