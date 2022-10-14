@@ -14,7 +14,8 @@
 
 ## Meeting Agenda
 - [Decide on Rules](#Decide-on-Rules)<br>
-- [Potential Jobs](#Potential-Jobs)
+- [Potential Jobs](#Potential-Jobs)<br>
+- [Unfinished Business](#Unfinished-Business)<br>
 
 ## Decide on Rules
 - We've discussed about managing project communications from _Fundamentals of Engineering Technical Communications_
@@ -42,8 +43,12 @@
        - Deadline: 10/15/2022
 - Everyone has worked until 3:10pm.
 
+## Unfinished Business
+- Team video planning, filming, editing
+
 ## Conclusion
 - We've talked about 
+    - settling down the rules
     - finishing jobs
-    - next meeting with the TA
-    - creating the team video
+    - next meeting with the TA (10.16.2022 8:30pm on zoom) (details in the [```rules.md```](../../rules.md))
+    - creating the team video (unfinished)
