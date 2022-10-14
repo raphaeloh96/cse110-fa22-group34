@@ -25,7 +25,7 @@
     - Specific Responsibilities/Deadlines
     - Conflict Resolution
     - Expectation of TA
-- All of the above rules are listed in the [```rules.md```](main/rules.md) file
+- All of the above rules are listed in the [```rules.md```](../../rules.md) file
 
 ## Potential Jobs
 - We've assigned the following jobs:
