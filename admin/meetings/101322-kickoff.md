@@ -1,5 +1,6 @@
 # Hardcore 34 Kickoff Meeting
 #### Time: 10/13/2022 2-3:15pm; Location: CSE Basement
+#### Meeting Type: Kickkof meeting
 ## Attendance
 - Sisy Chen
 - Raphael Oh
