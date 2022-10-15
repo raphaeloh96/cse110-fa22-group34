@@ -7,6 +7,7 @@
 4. [Specific Responsibilities/Deadlines](#specific-responsibilitiesdeadlines)
 5. [Conflict Resolution](#conflict-resolution)
 6. [Expectation of TA](#expectation-of-ta)
+7. [Signature](#signature)
 
 <hr>
 
@@ -44,4 +45,6 @@
   - Specific Deadline
 - Realistic
 
-<p align="right">Name&nbsp;&nbsp;__________________</p>
+### Signature
+**By my signature, I acknowledge that I have read, understand, and agree to the all the rules in this agreement.**<br><br>
+Name:&nbsp;&nbsp;__________________________________ &emsp;Date:&nbsp;&nbsp;________________________
