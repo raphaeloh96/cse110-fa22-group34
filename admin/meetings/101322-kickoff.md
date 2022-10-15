@@ -41,6 +41,7 @@
        - Deadline: 10/15/2022
     - Create [```rules.md```](../misc/rules.md) & format: David & Jack
        - Deadline: 10/15/2022
+- Reasoning for the role assignment: we promote self-volunteering as each of us know best about what we're capable of doing. If there're conflicts, the team lead and the members will then discuss to make accomodations. For this week, everyone is working on their desired tasks. 
 - Everyone has worked until 3:10pm.
 
 ## Unfinished Business
