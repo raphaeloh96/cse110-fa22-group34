@@ -7,4 +7,8 @@
 - Friendly, equal and frequent communication allows us to better face the difficulties in the project
 
 ### cooperation
-- 
+
+
+
+
+# //member info
