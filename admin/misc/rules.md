@@ -21,7 +21,7 @@
 ### General Responsibilities
 - **Communication** ahead of time.
 - If you aren't going to meet deadline, find a **replacement**.
-- Be **respectful**, no stupid suggestions.
+- Be **respectful**, there is no such thing as 'stupid suggestions.'
 
 ### Specific Responsibilities/Deadlines
 - Team Leads
@@ -36,15 +36,15 @@
 - Reinforce be open minded & patient 
   - Celebrate other people's ideas instead of only pointing out flaws
   - Create timelines if working on assignment together
-  - Maybe mix of experienced in responsibility
+  - Possibly a mix of experienced and inexperienced members in each task
 - Distribution of Task
   - If this becomes an issue, let us know in the groupchat or privately message team leads
 
 ### Expectation of TA
-- Pace Project 
-  - Specific Deadline
-- Realistic
+- Pace project 
+  - Specific deadline
+- Give realistic suggestions
 
 ### Signature
-**By my signature, I acknowledge that I have read, understand, and agree to the all the rules in this agreement.**<br><br>
+**By my signature, I acknowledge that I have read, understand, and agree to all the rules in this agreement.**<br><br>
 Name:&nbsp;&nbsp;__________________________________ &emsp;Date:&nbsp;&nbsp;________________________
