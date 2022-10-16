@@ -1,16 +1,14 @@
-# HARDCORE34
+# <p align="center"> HARDCORE34 </p>
+## Brand
+<img src="./branding/Hardcore%2034%20Logo.png">
 
-## brand
-
-## values
-### communication
+## Team Values
+### Communication
 - Friendly, equal and frequent communication allows us to better face the difficulties in the project
-
-### cooperation
-
-
-
-# //temp barrier
+- If any member faces difficulties, they should always seek for help beforehand so that the group's workflow would not be influenced
+### Cooperation
+- we promote self-volunteering as each of us know best about what we're capable of doing. If there are conflicts, the team lead and the members will then discuss to make accomodations. For this week, everyone is working on their desired tasks. 
+- Every team member should pay others respect and asking questions in any way is encouraged
 
 ## Team Members (Names In Alphabetical Order)
 |Member's Photo| Member's Info|
