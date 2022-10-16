@@ -1,6 +1,6 @@
 # Hardcore 34 Kickoff Meeting
 #### Time: 10/13/2022 2-3:15pm; Location: CSE Basement
-#### Meeting Type: Kickkof meeting
+#### Meeting Type: Kickoff meeting
 ## Attendance
 - Sisy Chen
 - Raphael Oh
@@ -36,13 +36,13 @@
        - Deadline: 10/15/2022
     - Format notes in ```101322-kickoff.md```: Alessia & Jiaxin
        - Deadline: 10/15/2022
-    - Create logo/ image for team & create other branding information: Sisy and Rapheal
+    - Create logo/image for team & create other branding information: Sisy & Raphael
        - Deadline: 10/15/2022
     - Create Team Page: Derrick & Xu
        - Deadline: 10/15/2022
     - Create [```rules.md```](../misc/rules.md) & format: David & Jack
        - Deadline: 10/15/2022
-- Reasoning for the role assignment: we promote self-volunteering as each of us know best about what we're capable of doing. If there're conflicts, the team lead and the members will then discuss to make accomodations. For this week, everyone is working on their desired tasks. 
+- Reasoning for the role assignment: we promote self-volunteering as each of us know best about what we're capable of doing. If there are conflicts, the team lead and the members will then discuss to make accomodations. For this week, everyone is working on their desired tasks. 
 - Everyone has worked until 3:10pm.
 
 ## Unfinished Business
