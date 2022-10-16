@@ -1,0 +1,4 @@
+Name: Hardcore 34
+Logo: uploaded to the same folder as this file
+Colors: red & yellow
+Theme: fire
